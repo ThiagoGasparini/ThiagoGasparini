@@ -8,6 +8,7 @@ With my desire to migrate to the area of ​​software and web development, I m
 
 * 🌍  I'm based in Curitiba-PR
 * ✉️  You can contact me at [thiago\_engprod@outlook.com](mailto:thiago_engprod@outlook.com)
+* +55 41 99704-8358
 
 ### Skills
 
